@@ -16,6 +16,7 @@
 ### How To Install
 - Open up cmd as administrator 
 
+
 ##### Install Dependencies
 + Method 1
 	                
@@ -27,10 +28,15 @@
 		- `pip install requests `
 		- `pip install bs4`
 		- `pip install names`
+		- `pip install colorama`
+		- `pip install termcolor`
+		+ If Pip Install Isnt Recognized Try pip3
                 
+
 
 ##### CD into the folder
 + In cmd type cd then the directory of the folder containing everything
+
 
 ### How To Run
 ##### Edit The Config
@@ -65,6 +71,22 @@
 - [ ]Create An Installer
 - [ ]Add MultiThreading
 - [ ]Add Proxy Support
+
+### Help
++ Python Is Not Recognized 
+	- Try python3
+	- Reinstall Python For All Users
+
++ Create.py not found
+	- Cd into the folder
+
+### More Help?
+I could help you but google can to. Just google the error and search.
+
+###Contact
+If you really need me just message me on discord at XO#0001 If You Spam I Will Cry (and block)
+
+
 
 
 
