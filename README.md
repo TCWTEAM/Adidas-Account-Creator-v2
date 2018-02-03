@@ -66,11 +66,11 @@
 
 
 ### Todo
-- [ ]Add A UI
--  [ ]Add A UI For Mac
-- [ ]Create An Installer
-- [ ]Add MultiThreading
-- [ ]Add Proxy Support
+- [ ] Add A UI
+-  [ ] Add A UI For Mac
+- [ ] Create An Installer
+- [ ] Add MultiThreading
+- [ ] Add Proxy Support
 
 ### Help
 + Python Is Not Recognized 
