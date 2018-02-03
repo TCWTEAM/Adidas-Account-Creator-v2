@@ -83,7 +83,7 @@
 ### More Help?
 I could help you but google can to. Just google the error and search.
 
-###Contact
+### Contact
 If you really need me just message me on discord at XO#0001 If You Spam I Will Cry (and block)
 
 
