@@ -1,10 +1,10 @@
-##Adidas Account Creator V2
-####By XO
-###Features
+## Adidas Account Creator V2
+### By XO
+### Features
 - No Need To Harvest Captchas  (Captcha Bypass)
 - Gmail and Catch-All Support 
 
-###Requirements
+### Requirements
 - Python 3+
 - Requests
 - bs4 
@@ -13,10 +13,10 @@
 - colorama
 - A Gmail Address or Catch-All Domain
 
-###How To Install
+### How To Install
 - Open up cmd as administrator 
 
-#####Install Dependencies
+##### Install Dependencies
 + Method 1
 	                
 	- Open installdep.bat as admin 
@@ -29,12 +29,12 @@
 		- `pip install names`
                 
 
-#####CD into the folder
+##### CD into the folder
 + In cmd type cd then the directory of the folder containing everything
 
-###How To Run
-#####Edit The Config
-######Open Config.Json
+### How To Run
+##### Edit The Config
+###### Open Config.Json
 + Set The Email Jig To either Gmail or Catchall
                 
 + Set The Email To Either Your Gmail Email OR your catchall email with something random @ the domain
@@ -48,7 +48,7 @@
 
 + Save The File
 
-######Run
+###### Run
 
 
 
@@ -59,7 +59,7 @@
 - Enter The Number Of Accs To Create
 
 
-###Todo
+### Todo
 - [ ]Add A UI
 -  [ ]Add A UI For Mac
 - [ ]Create An Installer
