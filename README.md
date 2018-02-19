@@ -88,8 +88,5 @@ I could help you but google can to. Just google the error and search.
 If you really need me just message me on discord at XO#0001 If You Spam I Will Cry (and block)
 
 
-
-
-
-
-
+### Notice
+In no way shape or form shall this code be used in any program being sold for profit without explicit permission of the creator
