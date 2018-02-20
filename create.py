@@ -19,6 +19,22 @@ with open('config.json') as file:
     config = json.load(file)
     file.close()
 
+def dot_trick(username):
+    emails = list()
+    username_length = len(username)
+    combinations = pow(2, username_length - 1)
+    padding = "{0:0" + str(username_length - 1) + "b}"
+    for i in range(0, combinations):
+        bin = padding.format(i)
+        full_email = ""
+        for j in range(0, username_length - 1):
+            full_email += (username[j]);
+            if bin[j] == "1":
+                full_email += "."
+        full_email += (username[j + 1])
+        emails.append(full_email + "@gmail.com")
+    return emails
+
 def main(num):
     count = 0
     headers = {
@@ -96,7 +112,9 @@ def main(num):
 
         if emailJig == "GMAIL":
             prefix = config['email'].split("@")[0]
-            email = "{}+{}@gmail.com".format(prefix, rprefix)
+            dotarray = dot_trick(prefix)
+            dotnum = randint(0, len(dotarray) - 1)
+            email = dotarray[dotnum]
         else:
             prefix = config['email'].split("@")[0]
             domain = config['email'].split("@")[1]
