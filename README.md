@@ -1,6 +1,6 @@
 ## Adidas Account Creator V2
 ### By XO
-# GMAIL DOESNT WORK DONT USE WILL FIX SOON
+#### Gmail Now Works (dot trick)
 ### Features
 - No Need To Harvest Captchas  (Captcha Bypass)
 - Gmail and Catch-All Support 
