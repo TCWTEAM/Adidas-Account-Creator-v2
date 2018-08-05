@@ -1,4 +1,5 @@
 ## Adidas Account Creator V2
+## THIS IS OLD PLEASE USE ADIDAS ACCOUNT GEN V3
 ### By XO
 #### Gmail Now Works (dot trick)
 ### Features
